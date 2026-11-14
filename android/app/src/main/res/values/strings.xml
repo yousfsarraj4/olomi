@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">علومي حبيب قلبي أبو حسين</string>
+    <string name="title_activity_main">علومي حبيب قلبي أبو حسين</string>
+    <string name="package_name">com.olomi.abuhussein</string>
+    <string name="custom_url_scheme">com.olomi.abuhussein</string>
+</resources>
